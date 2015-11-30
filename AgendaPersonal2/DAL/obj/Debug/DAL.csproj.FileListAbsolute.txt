@@ -1,0 +1,10 @@
+c:\users\usuario\documents\visual studio 2015\Projects\AgendaPersonal2\DAL\bin\Debug\DAL.dll
+c:\users\usuario\documents\visual studio 2015\Projects\AgendaPersonal2\DAL\bin\Debug\DAL.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\AgendaPersonal2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\AgendaPersonal2\DAL\obj\Debug\DAL.dll
+c:\users\usuario\documents\visual studio 2015\Projects\AgendaPersonal2\DAL\obj\Debug\DAL.pdb
+G:\AgendaPersonal2\DAL\bin\Debug\DAL.dll
+G:\AgendaPersonal2\DAL\bin\Debug\DAL.pdb
+G:\AgendaPersonal2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\AgendaPersonal2\DAL\obj\Debug\DAL.dll
+G:\AgendaPersonal2\DAL\obj\Debug\DAL.pdb

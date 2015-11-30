@@ -1,0 +1,26 @@
+c:\users\usuario\documents\visual studio 2015\Projects\AgendaPersonal2\AgendaPersonal2\bin\Debug\AgendaPersonal2.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\AgendaPersonal2\AgendaPersonal2\obj\Debug\AgendaPersonal2.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\AgendaPersonal2\AgendaPersonal2\obj\Debug\AgendaPersonal2.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\AgendaPersonal2\AgendaPersonal2\obj\Debug\AgendaPersonal2.RegistroPersona.resources
+c:\users\usuario\documents\visual studio 2015\Projects\AgendaPersonal2\AgendaPersonal2\obj\Debug\AgendaPersonal2.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\AgendaPersonal2\AgendaPersonal2\bin\Debug\AgendaPersonal2.exe
+c:\users\usuario\documents\visual studio 2015\Projects\AgendaPersonal2\AgendaPersonal2\bin\Debug\AgendaPersonal2.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\AgendaPersonal2\AgendaPersonal2\bin\Debug\BLL.dll
+c:\users\usuario\documents\visual studio 2015\Projects\AgendaPersonal2\AgendaPersonal2\bin\Debug\DAL.dll
+c:\users\usuario\documents\visual studio 2015\Projects\AgendaPersonal2\AgendaPersonal2\bin\Debug\BLL.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\AgendaPersonal2\AgendaPersonal2\bin\Debug\DAL.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\AgendaPersonal2\AgendaPersonal2\obj\Debug\AgendaPersonal2.exe
+c:\users\usuario\documents\visual studio 2015\Projects\AgendaPersonal2\AgendaPersonal2\obj\Debug\AgendaPersonal2.pdb
+G:\AgendaPersonal2\AgendaPersonal2\bin\Debug\AgendaPersonal2.exe.config
+G:\AgendaPersonal2\AgendaPersonal2\obj\Debug\AgendaPersonal2.exe
+G:\AgendaPersonal2\AgendaPersonal2\obj\Debug\AgendaPersonal2.pdb
+G:\AgendaPersonal2\AgendaPersonal2\bin\Debug\AgendaPersonal2.exe
+G:\AgendaPersonal2\AgendaPersonal2\bin\Debug\AgendaPersonal2.pdb
+G:\AgendaPersonal2\AgendaPersonal2\bin\Debug\BLL.dll
+G:\AgendaPersonal2\AgendaPersonal2\bin\Debug\DAL.dll
+G:\AgendaPersonal2\AgendaPersonal2\bin\Debug\BLL.pdb
+G:\AgendaPersonal2\AgendaPersonal2\bin\Debug\DAL.pdb
+G:\AgendaPersonal2\AgendaPersonal2\obj\Debug\AgendaPersonal2.csprojResolveAssemblyReference.cache
+G:\AgendaPersonal2\AgendaPersonal2\obj\Debug\AgendaPersonal2.Properties.Resources.resources
+G:\AgendaPersonal2\AgendaPersonal2\obj\Debug\AgendaPersonal2.RegistroPersona.resources
+G:\AgendaPersonal2\AgendaPersonal2\obj\Debug\AgendaPersonal2.csproj.GenerateResource.Cache
